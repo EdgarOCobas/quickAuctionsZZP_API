@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickAuctionsApi", "QuickAuctionsApi\QuickAuctionsApi.csproj", "{29C5D988-E799-4DA6-81F9-70788593156E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickAuctionsApi.Domain", "QuickAuctionsApi.Domain\QuickAuctionsApi.Domain.csproj", "{A849A898-BF09-4E5B-9866-DBEA238A7E32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickAuctionsApi.Infrastructure", "QuickAuctionsApi.Infrastructure\QuickAuctionsApi.Infrastructure.csproj", "{6237DCC3-57B5-4B94-9F30-B11742FF044E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29C5D988-E799-4DA6-81F9-70788593156E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C5D988-E799-4DA6-81F9-70788593156E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C5D988-E799-4DA6-81F9-70788593156E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C5D988-E799-4DA6-81F9-70788593156E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A849A898-BF09-4E5B-9866-DBEA238A7E32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A849A898-BF09-4E5B-9866-DBEA238A7E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A849A898-BF09-4E5B-9866-DBEA238A7E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A849A898-BF09-4E5B-9866-DBEA238A7E32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6237DCC3-57B5-4B94-9F30-B11742FF044E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6237DCC3-57B5-4B94-9F30-B11742FF044E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6237DCC3-57B5-4B94-9F30-B11742FF044E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6237DCC3-57B5-4B94-9F30-B11742FF044E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
